@@ -1,5 +1,6 @@
 # Twitter-Wake-Up-Bot
-**EN |** A python bot that will post a tweet if you don't wake up on time
+**EN |** A python bot that will post a tweet if you don't wake up on time 
+
 **ES |** Un bot de python que publica un tweet si no te despiertas a tiempo
 
 **EN |** At the time of making this project I have been trying to wake up early by setting alarms in my phone and such. But it never seems to be enough because there is no actual consequence if I don't do it.
@@ -22,7 +23,7 @@ I do not yet posess enough knowledge to make this into a more convenient program
 Clone the repository
 
 ```shell
-git clone <repo_url>
+git clone https://github.com/Cristian-Bendiksen/Twitter-Wake-Up-Bot
 ```
 
 Install the requirements
@@ -77,7 +78,7 @@ Todavía no poseo el conocimiento para hacer que este programa sea más convenie
 Clona el repositorio
 
 ```shell
-git clone <repo_url>
+git clone https://github.com/Cristian-Bendiksen/Twitter-Wake-Up-Bot
 ```
 
 Instala los requerimientos
